@@ -24,6 +24,6 @@
     "requirejs ": "~2.1.8",
     "iscroll ": "~5.0.5",
     "less.js": "~1.4.2",
-    "hammerjs": "1.0.8"
+    "hammerjs": "1.0.5"
   }
 }
